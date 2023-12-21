@@ -16,3 +16,8 @@ clinical procedure, utilizing the Zeiss brand’s Visucam 500 camera. The datase
 classified by expert ophthalmologists . The DR stages are classified into seven categories,
 ranging from 1 to 7. The input parameters for our model were patient’s fundus eye images, as described in this paper. Our model performed well with an impressive accuracy
 of 90%
+
+
+DATASET : https://zenodo.org/records/4891308
+
+REFERENCES : V. E. Castillo Benítez, I. Castro Matto, J. C. Mello Román, J. L. Vázquez Noguera, M. García-Torres, J. Ayala, D. P. Pinto-Roa, P. E. Gardel-Sotomayor, J. Facon, and S. A. Grillo, Dataset from fundus images for the study of diabetic retinopathy, Data in Brief, vol. 36, p. 107068, Jun. 2021. doi: https://doi.org/10.1016/j.dib.2021.107068
